@@ -1,6 +1,6 @@
-# todoapp
+# Tic-Tac-Toe
 
-A new Flutter project.
+Simple mobile game created in Flutter.
 
 ![feature graphics](https://user-images.githubusercontent.com/50132093/147869602-7453122e-027a-48b1-aeb4-3d1a3f9753d0.png)
 
